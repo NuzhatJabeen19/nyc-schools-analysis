@@ -1,4 +1,4 @@
-## 📊 School Safety Data Analysis Report
+## 📊 School Safety Incident Analysis Report
 
 This report summarizes key statistics and findings from the provided dataset.
 
