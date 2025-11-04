@@ -157,7 +157,7 @@ Refer to `0_data/School_Safety_Report_Data_Dictionary.xlsx` for:
 
 ## 👥 Contributors
 
-Nuzhat Amna
+Nuzhat Jabeen Amna
 
 ---
 
